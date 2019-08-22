@@ -20,3 +20,7 @@ Calendar plugin for event planner(?)
 
 Display total cash raised displayed on the home page (?)
 
+# Resources
+https://www.djangoproject.com/start/
+
+https://docs.djangoproject.com/en/2.2/intro/tutorial01/
